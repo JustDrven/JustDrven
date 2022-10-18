@@ -5,8 +5,10 @@
 
 - 📫 How to reach me **petr.nemec11111@gmail.com**
 
-## 👨‍💻 All my projects
+👨‍💻 All my projects
 - Website Myselvity - [Here](http://myselvity.eu)
+- InventoryAPI - [Here](https://github.com/JustDrven/InventoryAPI)
+- MSGSystem - [Here](https://github.com/JustDrven/MSGSystem)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

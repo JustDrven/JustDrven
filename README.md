@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h2 align="center">🥇 About me</h2>
+
 - 🔭 I’m currently working on [Myselvity.eu](http://myselvity.eu)
 
 - 🌱 I’m currently learning **Kotlin and Angular**
@@ -11,6 +12,7 @@
 - 📫 How to reach me **petr.nemec11111@gmail.com**
 
 <h2 align="center">👨‍💻 All my projects</h2>
+
 - Website Myselvity - [Here](http://myselvity.eu)
 - InventoryAPI - [Here](https://github.com/JustDrven/InventoryAPI)
 - MSGSystem - [Here](https://github.com/JustDrven/MSGSystem)

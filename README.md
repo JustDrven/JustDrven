@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [InventoryAPI](https://github.com/JustDrven/InventoryAPI)
+
 - 🌱 I’m currently learning **Kotlin and Angular**
 
 - 📫 How to reach me **petr.nemec11111@gmail.com**

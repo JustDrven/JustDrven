@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋 I'm from Czech republic 🇨🇿<br>🐱 I'm lover cat.<br>👨‍🎓 I'mm student.<br>☕ Java coder.
+🙋 I'm from Czech republic 🇨🇿<br>🐱 I'm lover cat.<br>👨‍🎓 I'm student.<br>☕ Java coder.
 
 
 ## 🌐 Socials:

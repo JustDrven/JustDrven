@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **petr.nemec11111@gmail.com**
 
+- 🧑‍💻 I just started learning **ethical hacking**.
+
 - ⚡ Fun fact **I love cats**
 
 <h3 align="left">Connect with me:</h3>

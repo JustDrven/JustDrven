@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on QPlay.cz<br>🌱 I am currently studying Secondary school Blatná (blek)<br>📫 How to reach me petr.nemec11111@gmail.com<br>🧑‍💻 I just started learning ethical hacking.<br>⚡ Fun fact I love cats<br>
+🔭 I’m currently working on: [QPlay.cz](https://qplay.cz)<br>🌱 I am currently studying: [Secondary school Blatná (blek)](https://blek.cz)<br>📫 How to reach me petr.nemec11111@gmail.com<br>⚡ Fact: I love cats<br>
 
 
 ## 🌐 Socials:

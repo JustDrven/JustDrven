@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a former [QPlay.cz](https://qplay.cz) developer<br>🌱 I am currently studying: [Secondary school Blatná (blek)](https://blek.cz)<br>📫 How to reach me petr.nemec11111@gmail.com<br>⚡ Fact: I love cats<br>
+🔭 I'm a former [QPlay.cz](https://qplay.cz) developer<br>⚡ Fact: I love cats<br>
 
 
 ## 🌐 Socials:

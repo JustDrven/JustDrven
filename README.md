@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏼‍💻 I'm Backend Developer from Czech Republic<br>
+👨🏼‍💻 I'm Backend Developer from Czech Republic 🇨🇿<br>
 📟 My website: https://drven.vercel.app<br>
 ⚙️ 8+ years experience with development<br>
 ⚡ Fact: I love cats<br>

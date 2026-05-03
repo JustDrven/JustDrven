@@ -13,5 +13,5 @@
 ![Tech](https://skillicons.dev/icons?i=java,kotlin,js,ts,go,react,nextjs,cmake,arduino,raspberrypi,c,cpp,cs,graphql,gradle,maven,firebase,mysql,postgres,mongodb,redis,kafka,spring,hibernate,docker,kubernetes,py,nodejs,npm,express,dart,git,dotnet,bash,php,linux,jenkins,grafana,)
 
 # 📈 Stats
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JustDrven&theme=nord_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JustDrven&theme=dark)](https://git.io/streak-stats) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JustDrven&theme=nord_dark)
 

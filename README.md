@@ -3,10 +3,7 @@
 📟 My website: https://drven.vercel.app<br>
 ⚙️ 8+ years experience with development<br>
 ⚡ Fact: I love cats<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n.emecek) 
+📸 My [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n.emecek)
 
 # 💻 Tech Stack:
 
